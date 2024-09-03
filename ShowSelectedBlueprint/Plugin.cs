@@ -5,7 +5,7 @@ using HarmonyLib;
 namespace ShowSelectedBlueprint {
     [BepInPlugin(PluginGUID, PluginName, PluginVersion)]
     public class Plugin : BaseUnityPlugin {
-        public const string PluginGUID = "com.maxsch.Shapes2.ShowSelectedBlueprint";
+        public const string PluginGUID = "com.maxsch.Shapez2.ShowSelectedBlueprint";
         public const string PluginName = "Show Selected Blueprint";
         public const string PluginVersion = "0.0.1";
 

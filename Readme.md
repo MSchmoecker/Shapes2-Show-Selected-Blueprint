@@ -13,8 +13,8 @@ Requires BepInEx Version
    <?xml version="1.0" encoding="utf-8"?>
    <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
      <PropertyGroup>
-       <SHAPES2_INSTALL>C:/Program Files/Steam/steamapps/common/shapez 2</SHAPES2_INSTALL>
-       <MOD_DEPLOYPATH>$(SHAPES2_INSTALL)/BepInEx/plugins</MOD_DEPLOYPATH>
+       <SHAPEZ2_INSTALL>C:/Program Files/Steam/steamapps/common/shapez 2</SHAPEZ2_INSTALL>
+       <MOD_DEPLOYPATH>$(SHAPEZ2_INSTALL)/BepInEx/plugins</MOD_DEPLOYPATH>
      </PropertyGroup>
    </Project>
    ```

@@ -49,22 +49,22 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="BepInEx">
-      <HintPath>$(SHAPES2_INSTALL)/BepInEx/core/BepInEx.dll</HintPath>
+      <HintPath>$(SHAPEZ2_INSTALL)/BepInEx/core/BepInEx.dll</HintPath>
     </Reference>
     <Reference Include="0Harmony">
-      <HintPath>$(SHAPES2_INSTALL)/BepInEx/core/0Harmony.dll</HintPath>
+      <HintPath>$(SHAPEZ2_INSTALL)/BepInEx/core/0Harmony.dll</HintPath>
     </Reference>
     <Reference Include="SPZGameAssembly">
-      <HintPath>$(SHAPES2_INSTALL)/shapez 2_Data/Managed/publicized_assemblies/SPZGameAssembly_publicized.dll</HintPath>
+      <HintPath>$(SHAPEZ2_INSTALL)/shapez 2_Data/Managed/publicized_assemblies/SPZGameAssembly_publicized.dll</HintPath>
     </Reference>
     <Reference Include="Global.Localization.Core">
-      <HintPath>$(SHAPES2_INSTALL)/shapez 2_Data/Managed/Global.Localization.Core.dll</HintPath>
+      <HintPath>$(SHAPEZ2_INSTALL)/shapez 2_Data/Managed/Global.Localization.Core.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine">
-      <HintPath>$(SHAPES2_INSTALL)/shapez 2_Data/Managed/UnityEngine.dll</HintPath>
+      <HintPath>$(SHAPEZ2_INSTALL)/shapez 2_Data/Managed/UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
-      <HintPath>$(SHAPES2_INSTALL)/shapez 2_Data/Managed/UnityEngine.CoreModule.dll</HintPath>
+      <HintPath>$(SHAPEZ2_INSTALL)/shapez 2_Data/Managed/UnityEngine.CoreModule.dll</HintPath>
     </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
